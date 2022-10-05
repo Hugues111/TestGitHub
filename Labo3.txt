@@ -1,0 +1,33 @@
+Laboratoire 3
+NomAlgo:Evaluerlaforme
+	Variable0==Forme
+
+	Variable1==Carre
+	Variable2==Triangle
+	Variable3==Forme
+	Variable4==Forme
+
+
+	FonctionEvaluerlaforme
+		
+
+	DebutFonction
+		
+		Si Forme==Carre
+		Retourner1
+		FinSi
+
+		Si Forme==Triangle
+		Retourner2
+		FinSi
+
+		Si Forme==Rectangle
+		Retourner3
+		FinSi
+
+
+		Si Forme==Cercle
+		Retourner4
+		FinSi
+
+	FinFonction
